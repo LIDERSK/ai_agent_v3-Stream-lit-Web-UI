@@ -1,0 +1,13 @@
+{
+  "node": "PC1 RX6800XT",
+  "tier": "Hlboké",
+  "temperature": 0.0,
+  "skills": {
+    "run_code": true
+  },
+  "models": {
+    "PC1 RX6800XT": {
+      "text": "gpt-oss:20b"
+    }
+  }
+}

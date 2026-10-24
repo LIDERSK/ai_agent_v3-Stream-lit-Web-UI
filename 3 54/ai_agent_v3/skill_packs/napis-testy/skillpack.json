@@ -1,0 +1,15 @@
+{
+  "source": "builtin",
+  "format": "SKILL.md",
+  "triggers": [
+    "test",
+    "testy",
+    "unittest",
+    "pytest",
+    "pokrytie",
+    "coverage"
+  ],
+  "notes": [],
+  "warnings": [],
+  "default_enabled": true
+}

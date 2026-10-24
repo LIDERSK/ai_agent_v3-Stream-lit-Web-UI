@@ -1,0 +1,1199 @@
+def f0(x):
+    return x + 0  # komentar komentar komentar 
+
+def f1(x):
+    return x + 1  # komentar komentar komentar 
+
+def f2(x):
+    return x + 2  # komentar komentar komentar 
+
+def f3(x):
+    return x + 3  # komentar komentar komentar 
+
+def f4(x):
+    return x + 4  # komentar komentar komentar 
+
+def f5(x):
+    return x + 5  # komentar komentar komentar 
+
+def f6(x):
+    return x + 6  # komentar komentar komentar 
+
+def f7(x):
+    return x + 7  # komentar komentar komentar 
+
+def f8(x):
+    return x + 8  # komentar komentar komentar 
+
+def f9(x):
+    return x + 9  # komentar komentar komentar 
+
+def f10(x):
+    return x + 10  # komentar komentar komentar 
+
+def f11(x):
+    return x + 11  # komentar komentar komentar 
+
+def f12(x):
+    return x + 12  # komentar komentar komentar 
+
+def f13(x):
+    return x + 13  # komentar komentar komentar 
+
+def f14(x):
+    return x + 14  # komentar komentar komentar 
+
+def f15(x):
+    return x + 15  # komentar komentar komentar 
+
+def f16(x):
+    return x + 16  # komentar komentar komentar 
+
+def f17(x):
+    return x + 17  # komentar komentar komentar 
+
+def f18(x):
+    return x + 18  # komentar komentar komentar 
+
+def f19(x):
+    return x + 19  # komentar komentar komentar 
+
+def f20(x):
+    return x + 20  # komentar komentar komentar 
+
+def f21(x):
+    return x + 21  # komentar komentar komentar 
+
+def f22(x):
+    return x + 22  # komentar komentar komentar 
+
+def f23(x):
+    return x + 23  # komentar komentar komentar 
+
+def f24(x):
+    return x + 24  # komentar komentar komentar 
+
+def f25(x):
+    return x + 25  # komentar komentar komentar 
+
+def f26(x):
+    return x + 26  # komentar komentar komentar 
+
+def f27(x):
+    return x + 27  # komentar komentar komentar 
+
+def f28(x):
+    return x + 28  # komentar komentar komentar 
+
+def f29(x):
+    return x + 29  # komentar komentar komentar 
+
+def f30(x):
+    return x + 30  # komentar komentar komentar 
+
+def f31(x):
+    return x + 31  # komentar komentar komentar 
+
+def f32(x):
+    return x + 32  # komentar komentar komentar 
+
+def f33(x):
+    return x + 33  # komentar komentar komentar 
+
+def f34(x):
+    return x + 34  # komentar komentar komentar 
+
+def f35(x):
+    return x + 35  # komentar komentar komentar 
+
+def f36(x):
+    return x + 36  # komentar komentar komentar 
+
+def f37(x):
+    return x + 37  # komentar komentar komentar 
+
+def f38(x):
+    return x + 38  # komentar komentar komentar 
+
+def f39(x):
+    return x + 39  # komentar komentar komentar 
+
+def f40(x):
+    return x + 40  # komentar komentar komentar 
+
+def f41(x):
+    return x + 41  # komentar komentar komentar 
+
+def f42(x):
+    return x + 42  # komentar komentar komentar 
+
+def f43(x):
+    return x + 43  # komentar komentar komentar 
+
+def f44(x):
+    return x + 44  # komentar komentar komentar 
+
+def f45(x):
+    return x + 45  # komentar komentar komentar 
+
+def f46(x):
+    return x + 46  # komentar komentar komentar 
+
+def f47(x):
+    return x + 47  # komentar komentar komentar 
+
+def f48(x):
+    return x + 48  # komentar komentar komentar 
+
+def f49(x):
+    return x + 49  # komentar komentar komentar 
+
+def f50(x):
+    return x + 50  # komentar komentar komentar 
+
+def f51(x):
+    return x + 51  # komentar komentar komentar 
+
+def f52(x):
+    return x + 52  # komentar komentar komentar 
+
+def f53(x):
+    return x + 53  # komentar komentar komentar 
+
+def f54(x):
+    return x + 54  # komentar komentar komentar 
+
+def f55(x):
+    return x + 55  # komentar komentar komentar 
+
+def f56(x):
+    return x + 56  # komentar komentar komentar 
+
+def f57(x):
+    return x + 57  # komentar komentar komentar 
+
+def f58(x):
+    return x + 58  # komentar komentar komentar 
+
+def f59(x):
+    return x + 59  # komentar komentar komentar 
+
+def f60(x):
+    return x + 60  # komentar komentar komentar 
+
+def f61(x):
+    return x + 61  # komentar komentar komentar 
+
+def f62(x):
+    return x + 62  # komentar komentar komentar 
+
+def f63(x):
+    return x + 63  # komentar komentar komentar 
+
+def f64(x):
+    return x + 64  # komentar komentar komentar 
+
+def f65(x):
+    return x + 65  # komentar komentar komentar 
+
+def f66(x):
+    return x + 66  # komentar komentar komentar 
+
+def f67(x):
+    return x + 67  # komentar komentar komentar 
+
+def f68(x):
+    return x + 68  # komentar komentar komentar 
+
+def f69(x):
+    return x + 69  # komentar komentar komentar 
+
+def f70(x):
+    return x + 70  # komentar komentar komentar 
+
+def f71(x):
+    return x + 71  # komentar komentar komentar 
+
+def f72(x):
+    return x + 72  # komentar komentar komentar 
+
+def f73(x):
+    return x + 73  # komentar komentar komentar 
+
+def f74(x):
+    return x + 74  # komentar komentar komentar 
+
+def f75(x):
+    return x + 75  # komentar komentar komentar 
+
+def f76(x):
+    return x + 76  # komentar komentar komentar 
+
+def f77(x):
+    return x + 77  # komentar komentar komentar 
+
+def f78(x):
+    return x + 78  # komentar komentar komentar 
+
+def f79(x):
+    return x + 79  # komentar komentar komentar 
+
+def f80(x):
+    return x + 80  # komentar komentar komentar 
+
+def f81(x):
+    return x + 81  # komentar komentar komentar 
+
+def f82(x):
+    return x + 82  # komentar komentar komentar 
+
+def f83(x):
+    return x + 83  # komentar komentar komentar 
+
+def f84(x):
+    return x + 84  # komentar komentar komentar 
+
+def f85(x):
+    return x + 85  # komentar komentar komentar 
+
+def f86(x):
+    return x + 86  # komentar komentar komentar 
+
+def f87(x):
+    return x + 87  # komentar komentar komentar 
+
+def f88(x):
+    return x + 88  # komentar komentar komentar 
+
+def f89(x):
+    return x + 89  # komentar komentar komentar 
+
+def f90(x):
+    return x + 90  # komentar komentar komentar 
+
+def f91(x):
+    return x + 91  # komentar komentar komentar 
+
+def f92(x):
+    return x + 92  # komentar komentar komentar 
+
+def f93(x):
+    return x + 93  # komentar komentar komentar 
+
+def f94(x):
+    return x + 94  # komentar komentar komentar 
+
+def f95(x):
+    return x + 95  # komentar komentar komentar 
+
+def f96(x):
+    return x + 96  # komentar komentar komentar 
+
+def f97(x):
+    return x + 97  # komentar komentar komentar 
+
+def f98(x):
+    return x + 98  # komentar komentar komentar 
+
+def f99(x):
+    return x + 99  # komentar komentar komentar 
+
+def f100(x):
+    return x + 100  # komentar komentar komentar 
+
+def f101(x):
+    return x + 101  # komentar komentar komentar 
+
+def f102(x):
+    return x + 102  # komentar komentar komentar 
+
+def f103(x):
+    return x + 103  # komentar komentar komentar 
+
+def f104(x):
+    return x + 104  # komentar komentar komentar 
+
+def f105(x):
+    return x + 105  # komentar komentar komentar 
+
+def f106(x):
+    return x + 106  # komentar komentar komentar 
+
+def f107(x):
+    return x + 107  # komentar komentar komentar 
+
+def f108(x):
+    return x + 108  # komentar komentar komentar 
+
+def f109(x):
+    return x + 109  # komentar komentar komentar 
+
+def f110(x):
+    return x + 110  # komentar komentar komentar 
+
+def f111(x):
+    return x + 111  # komentar komentar komentar 
+
+def f112(x):
+    return x + 112  # komentar komentar komentar 
+
+def f113(x):
+    return x + 113  # komentar komentar komentar 
+
+def f114(x):
+    return x + 114  # komentar komentar komentar 
+
+def f115(x):
+    return x + 115  # komentar komentar komentar 
+
+def f116(x):
+    return x + 116  # komentar komentar komentar 
+
+def f117(x):
+    return x + 117  # komentar komentar komentar 
+
+def f118(x):
+    return x + 118  # komentar komentar komentar 
+
+def f119(x):
+    return x + 119  # komentar komentar komentar 
+
+def f120(x):
+    return x + 120  # komentar komentar komentar 
+
+def f121(x):
+    return x + 121  # komentar komentar komentar 
+
+def f122(x):
+    return x + 122  # komentar komentar komentar 
+
+def f123(x):
+    return x + 123  # komentar komentar komentar 
+
+def f124(x):
+    return x + 124  # komentar komentar komentar 
+
+def f125(x):
+    return x + 125  # komentar komentar komentar 
+
+def f126(x):
+    return x + 126  # komentar komentar komentar 
+
+def f127(x):
+    return x + 127  # komentar komentar komentar 
+
+def f128(x):
+    return x + 128  # komentar komentar komentar 
+
+def f129(x):
+    return x + 129  # komentar komentar komentar 
+
+def f130(x):
+    return x + 130  # komentar komentar komentar 
+
+def f131(x):
+    return x + 131  # komentar komentar komentar 
+
+def f132(x):
+    return x + 132  # komentar komentar komentar 
+
+def f133(x):
+    return x + 133  # komentar komentar komentar 
+
+def f134(x):
+    return x + 134  # komentar komentar komentar 
+
+def f135(x):
+    return x + 135  # komentar komentar komentar 
+
+def f136(x):
+    return x + 136  # komentar komentar komentar 
+
+def f137(x):
+    return x + 137  # komentar komentar komentar 
+
+def f138(x):
+    return x + 138  # komentar komentar komentar 
+
+def f139(x):
+    return x + 139  # komentar komentar komentar 
+
+def f140(x):
+    return x + 140  # komentar komentar komentar 
+
+def f141(x):
+    return x + 141  # komentar komentar komentar 
+
+def f142(x):
+    return x + 142  # komentar komentar komentar 
+
+def f143(x):
+    return x + 143  # komentar komentar komentar 
+
+def f144(x):
+    return x + 144  # komentar komentar komentar 
+
+def f145(x):
+    return x + 145  # komentar komentar komentar 
+
+def f146(x):
+    return x + 146  # komentar komentar komentar 
+
+def f147(x):
+    return x + 147  # komentar komentar komentar 
+
+def f148(x):
+    return x + 148  # komentar komentar komentar 
+
+def f149(x):
+    return x + 149  # komentar komentar komentar 
+
+def f150(x):
+    return x + 150  # komentar komentar komentar 
+
+def f151(x):
+    return x + 151  # komentar komentar komentar 
+
+def f152(x):
+    return x + 152  # komentar komentar komentar 
+
+def f153(x):
+    return x + 153  # komentar komentar komentar 
+
+def f154(x):
+    return x + 154  # komentar komentar komentar 
+
+def f155(x):
+    return x + 155  # komentar komentar komentar 
+
+def f156(x):
+    return x + 156  # komentar komentar komentar 
+
+def f157(x):
+    return x + 157  # komentar komentar komentar 
+
+def f158(x):
+    return x + 158  # komentar komentar komentar 
+
+def f159(x):
+    return x + 159  # komentar komentar komentar 
+
+def f160(x):
+    return x + 160  # komentar komentar komentar 
+
+def f161(x):
+    return x + 161  # komentar komentar komentar 
+
+def f162(x):
+    return x + 162  # komentar komentar komentar 
+
+def f163(x):
+    return x + 163  # komentar komentar komentar 
+
+def f164(x):
+    return x + 164  # komentar komentar komentar 
+
+def f165(x):
+    return x + 165  # komentar komentar komentar 
+
+def f166(x):
+    return x + 166  # komentar komentar komentar 
+
+def f167(x):
+    return x + 167  # komentar komentar komentar 
+
+def f168(x):
+    return x + 168  # komentar komentar komentar 
+
+def f169(x):
+    return x + 169  # komentar komentar komentar 
+
+def f170(x):
+    return x + 170  # komentar komentar komentar 
+
+def f171(x):
+    return x + 171  # komentar komentar komentar 
+
+def f172(x):
+    return x + 172  # komentar komentar komentar 
+
+def f173(x):
+    return x + 173  # komentar komentar komentar 
+
+def f174(x):
+    return x + 174  # komentar komentar komentar 
+
+def f175(x):
+    return x + 175  # komentar komentar komentar 
+
+def f176(x):
+    return x + 176  # komentar komentar komentar 
+
+def f177(x):
+    return x + 177  # komentar komentar komentar 
+
+def f178(x):
+    return x + 178  # komentar komentar komentar 
+
+def f179(x):
+    return x + 179  # komentar komentar komentar 
+
+def f180(x):
+    return x + 180  # komentar komentar komentar 
+
+def f181(x):
+    return x + 181  # komentar komentar komentar 
+
+def f182(x):
+    return x + 182  # komentar komentar komentar 
+
+def f183(x):
+    return x + 183  # komentar komentar komentar 
+
+def f184(x):
+    return x + 184  # komentar komentar komentar 
+
+def f185(x):
+    return x + 185  # komentar komentar komentar 
+
+def f186(x):
+    return x + 186  # komentar komentar komentar 
+
+def f187(x):
+    return x + 187  # komentar komentar komentar 
+
+def f188(x):
+    return x + 188  # komentar komentar komentar 
+
+def f189(x):
+    return x + 189  # komentar komentar komentar 
+
+def f190(x):
+    return x + 190  # komentar komentar komentar 
+
+def f191(x):
+    return x + 191  # komentar komentar komentar 
+
+def f192(x):
+    return x + 192  # komentar komentar komentar 
+
+def f193(x):
+    return x + 193  # komentar komentar komentar 
+
+def f194(x):
+    return x + 194  # komentar komentar komentar 
+
+def f195(x):
+    return x + 195  # komentar komentar komentar 
+
+def f196(x):
+    return x + 196  # komentar komentar komentar 
+
+def f197(x):
+    return x + 197  # komentar komentar komentar 
+
+def f198(x):
+    return x + 198  # komentar komentar komentar 
+
+def f199(x):
+    return x + 199  # komentar komentar komentar 
+
+def f200(x):
+    return x + 200  # komentar komentar komentar 
+
+def f201(x):
+    return x + 201  # komentar komentar komentar 
+
+def f202(x):
+    return x + 202  # komentar komentar komentar 
+
+def f203(x):
+    return x + 203  # komentar komentar komentar 
+
+def f204(x):
+    return x + 204  # komentar komentar komentar 
+
+def f205(x):
+    return x + 205  # komentar komentar komentar 
+
+def f206(x):
+    return x + 206  # komentar komentar komentar 
+
+def f207(x):
+    return x + 207  # komentar komentar komentar 
+
+def f208(x):
+    return x + 208  # komentar komentar komentar 
+
+def f209(x):
+    return x + 209  # komentar komentar komentar 
+
+def f210(x):
+    return x + 210  # komentar komentar komentar 
+
+def f211(x):
+    return x + 211  # komentar komentar komentar 
+
+def f212(x):
+    return x + 212  # komentar komentar komentar 
+
+def f213(x):
+    return x + 213  # komentar komentar komentar 
+
+def f214(x):
+    return x + 214  # komentar komentar komentar 
+
+def f215(x):
+    return x + 215  # komentar komentar komentar 
+
+def f216(x):
+    return x + 216  # komentar komentar komentar 
+
+def f217(x):
+    return x + 217  # komentar komentar komentar 
+
+def f218(x):
+    return x + 218  # komentar komentar komentar 
+
+def f219(x):
+    return x + 219  # komentar komentar komentar 
+
+def f220(x):
+    return x + 220  # komentar komentar komentar 
+
+def f221(x):
+    return x + 221  # komentar komentar komentar 
+
+def f222(x):
+    return x + 222  # komentar komentar komentar 
+
+def f223(x):
+    return x + 223  # komentar komentar komentar 
+
+def f224(x):
+    return x + 224  # komentar komentar komentar 
+
+def f225(x):
+    return x + 225  # komentar komentar komentar 
+
+def f226(x):
+    return x + 226  # komentar komentar komentar 
+
+def f227(x):
+    return x + 227  # komentar komentar komentar 
+
+def f228(x):
+    return x + 228  # komentar komentar komentar 
+
+def f229(x):
+    return x + 229  # komentar komentar komentar 
+
+def f230(x):
+    return x + 230  # komentar komentar komentar 
+
+def f231(x):
+    return x + 231  # komentar komentar komentar 
+
+def f232(x):
+    return x + 232  # komentar komentar komentar 
+
+def f233(x):
+    return x + 233  # komentar komentar komentar 
+
+def f234(x):
+    return x + 234  # komentar komentar komentar 
+
+def f235(x):
+    return x + 235  # komentar komentar komentar 
+
+def f236(x):
+    return x + 236  # komentar komentar komentar 
+
+def f237(x):
+    return x + 237  # komentar komentar komentar 
+
+def f238(x):
+    return x + 238  # komentar komentar komentar 
+
+def f239(x):
+    return x + 239  # komentar komentar komentar 
+
+def f240(x):
+    return x + 240  # komentar komentar komentar 
+
+def f241(x):
+    return x + 241  # komentar komentar komentar 
+
+def f242(x):
+    return x + 242  # komentar komentar komentar 
+
+def f243(x):
+    return x + 243  # komentar komentar komentar 
+
+def f244(x):
+    return x + 244  # komentar komentar komentar 
+
+def f245(x):
+    return x + 245  # komentar komentar komentar 
+
+def f246(x):
+    return x + 246  # komentar komentar komentar 
+
+def f247(x):
+    return x + 247  # komentar komentar komentar 
+
+def f248(x):
+    return x + 248  # komentar komentar komentar 
+
+def f249(x):
+    return x + 249  # komentar komentar komentar 
+
+def f250(x):
+    return x + 250  # komentar komentar komentar 
+
+def f251(x):
+    return x + 251  # komentar komentar komentar 
+
+def f252(x):
+    return x + 252  # komentar komentar komentar 
+
+def f253(x):
+    return x + 253  # komentar komentar komentar 
+
+def f254(x):
+    return x + 254  # komentar komentar komentar 
+
+def f255(x):
+    return x + 255  # komentar komentar komentar 
+
+def f256(x):
+    return x + 256  # komentar komentar komentar 
+
+def f257(x):
+    return x + 257  # komentar komentar komentar 
+
+def f258(x):
+    return x + 258  # komentar komentar komentar 
+
+def f259(x):
+    return x + 259  # komentar komentar komentar 
+
+def f260(x):
+    return x + 260  # komentar komentar komentar 
+
+def f261(x):
+    return x + 261  # komentar komentar komentar 
+
+def f262(x):
+    return x + 262  # komentar komentar komentar 
+
+def f263(x):
+    return x + 263  # komentar komentar komentar 
+
+def f264(x):
+    return x + 264  # komentar komentar komentar 
+
+def f265(x):
+    return x + 265  # komentar komentar komentar 
+
+def f266(x):
+    return x + 266  # komentar komentar komentar 
+
+def f267(x):
+    return x + 267  # komentar komentar komentar 
+
+def f268(x):
+    return x + 268  # komentar komentar komentar 
+
+def f269(x):
+    return x + 269  # komentar komentar komentar 
+
+def f270(x):
+    return x + 270  # komentar komentar komentar 
+
+def f271(x):
+    return x + 271  # komentar komentar komentar 
+
+def f272(x):
+    return x + 272  # komentar komentar komentar 
+
+def f273(x):
+    return x + 273  # komentar komentar komentar 
+
+def f274(x):
+    return x + 274  # komentar komentar komentar 
+
+def f275(x):
+    return x + 275  # komentar komentar komentar 
+
+def f276(x):
+    return x + 276  # komentar komentar komentar 
+
+def f277(x):
+    return x + 277  # komentar komentar komentar 
+
+def f278(x):
+    return x + 278  # komentar komentar komentar 
+
+def f279(x):
+    return x + 279  # komentar komentar komentar 
+
+def f280(x):
+    return x + 280  # komentar komentar komentar 
+
+def f281(x):
+    return x + 281  # komentar komentar komentar 
+
+def f282(x):
+    return x + 282  # komentar komentar komentar 
+
+def f283(x):
+    return x + 283  # komentar komentar komentar 
+
+def f284(x):
+    return x + 284  # komentar komentar komentar 
+
+def f285(x):
+    return x + 285  # komentar komentar komentar 
+
+def f286(x):
+    return x + 286  # komentar komentar komentar 
+
+def f287(x):
+    return x + 287  # komentar komentar komentar 
+
+def f288(x):
+    return x + 288  # komentar komentar komentar 
+
+def f289(x):
+    return x + 289  # komentar komentar komentar 
+
+def f290(x):
+    return x + 290  # komentar komentar komentar 
+
+def f291(x):
+    return x + 291  # komentar komentar komentar 
+
+def f292(x):
+    return x + 292  # komentar komentar komentar 
+
+def f293(x):
+    return x + 293  # komentar komentar komentar 
+
+def f294(x):
+    return x + 294  # komentar komentar komentar 
+
+def f295(x):
+    return x + 295  # komentar komentar komentar 
+
+def f296(x):
+    return x + 296  # komentar komentar komentar 
+
+def f297(x):
+    return x + 297  # komentar komentar komentar 
+
+def f298(x):
+    return x + 298  # komentar komentar komentar 
+
+def f299(x):
+    return x + 299  # komentar komentar komentar 
+
+def f300(x):
+    return x + 300  # komentar komentar komentar 
+
+def f301(x):
+    return x + 301  # komentar komentar komentar 
+
+def f302(x):
+    return x + 302  # komentar komentar komentar 
+
+def f303(x):
+    return x + 303  # komentar komentar komentar 
+
+def f304(x):
+    return x + 304  # komentar komentar komentar 
+
+def f305(x):
+    return x + 305  # komentar komentar komentar 
+
+def f306(x):
+    return x + 306  # komentar komentar komentar 
+
+def f307(x):
+    return x + 307  # komentar komentar komentar 
+
+def f308(x):
+    return x + 308  # komentar komentar komentar 
+
+def f309(x):
+    return x + 309  # komentar komentar komentar 
+
+def f310(x):
+    return x + 310  # komentar komentar komentar 
+
+def f311(x):
+    return x + 311  # komentar komentar komentar 
+
+def f312(x):
+    return x + 312  # komentar komentar komentar 
+
+def f313(x):
+    return x + 313  # komentar komentar komentar 
+
+def f314(x):
+    return x + 314  # komentar komentar komentar 
+
+def f315(x):
+    return x + 315  # komentar komentar komentar 
+
+def f316(x):
+    return x + 316  # komentar komentar komentar 
+
+def f317(x):
+    return x + 317  # komentar komentar komentar 
+
+def f318(x):
+    return x + 318  # komentar komentar komentar 
+
+def f319(x):
+    return x + 319  # komentar komentar komentar 
+
+def f320(x):
+    return x + 320  # komentar komentar komentar 
+
+def f321(x):
+    return x + 321  # komentar komentar komentar 
+
+def f322(x):
+    return x + 322  # komentar komentar komentar 
+
+def f323(x):
+    return x + 323  # komentar komentar komentar 
+
+def f324(x):
+    return x + 324  # komentar komentar komentar 
+
+def f325(x):
+    return x + 325  # komentar komentar komentar 
+
+def f326(x):
+    return x + 326  # komentar komentar komentar 
+
+def f327(x):
+    return x + 327  # komentar komentar komentar 
+
+def f328(x):
+    return x + 328  # komentar komentar komentar 
+
+def f329(x):
+    return x + 329  # komentar komentar komentar 
+
+def f330(x):
+    return x + 330  # komentar komentar komentar 
+
+def f331(x):
+    return x + 331  # komentar komentar komentar 
+
+def f332(x):
+    return x + 332  # komentar komentar komentar 
+
+def f333(x):
+    return x + 333  # komentar komentar komentar 
+
+def f334(x):
+    return x + 334  # komentar komentar komentar 
+
+def f335(x):
+    return x + 335  # komentar komentar komentar 
+
+def f336(x):
+    return x + 336  # komentar komentar komentar 
+
+def f337(x):
+    return x + 337  # komentar komentar komentar 
+
+def f338(x):
+    return x + 338  # komentar komentar komentar 
+
+def f339(x):
+    return x + 339  # komentar komentar komentar 
+
+def f340(x):
+    return x + 340  # komentar komentar komentar 
+
+def f341(x):
+    return x + 341  # komentar komentar komentar 
+
+def f342(x):
+    return x + 342  # komentar komentar komentar 
+
+def f343(x):
+    return x + 343  # komentar komentar komentar 
+
+def f344(x):
+    return x + 344  # komentar komentar komentar 
+
+def f345(x):
+    return x + 345  # komentar komentar komentar 
+
+def f346(x):
+    return x + 346  # komentar komentar komentar 
+
+def f347(x):
+    return x + 347  # komentar komentar komentar 
+
+def f348(x):
+    return x + 348  # komentar komentar komentar 
+
+def f349(x):
+    return x + 349  # komentar komentar komentar 
+
+def f350(x):
+    return x + 350  # komentar komentar komentar 
+
+def f351(x):
+    return x + 351  # komentar komentar komentar 
+
+def f352(x):
+    return x + 352  # komentar komentar komentar 
+
+def f353(x):
+    return x + 353  # komentar komentar komentar 
+
+def f354(x):
+    return x + 354  # komentar komentar komentar 
+
+def f355(x):
+    return x + 355  # komentar komentar komentar 
+
+def f356(x):
+    return x + 356  # komentar komentar komentar 
+
+def f357(x):
+    return x + 357  # komentar komentar komentar 
+
+def f358(x):
+    return x + 358  # komentar komentar komentar 
+
+def f359(x):
+    return x + 359  # komentar komentar komentar 
+
+def f360(x):
+    return x + 360  # komentar komentar komentar 
+
+def f361(x):
+    return x + 361  # komentar komentar komentar 
+
+def f362(x):
+    return x + 362  # komentar komentar komentar 
+
+def f363(x):
+    return x + 363  # komentar komentar komentar 
+
+def f364(x):
+    return x + 364  # komentar komentar komentar 
+
+def f365(x):
+    return x + 365  # komentar komentar komentar 
+
+def f366(x):
+    return x + 366  # komentar komentar komentar 
+
+def f367(x):
+    return x + 367  # komentar komentar komentar 
+
+def f368(x):
+    return x + 368  # komentar komentar komentar 
+
+def f369(x):
+    return x + 369  # komentar komentar komentar 
+
+def f370(x):
+    return x + 370  # komentar komentar komentar 
+
+def f371(x):
+    return x + 371  # komentar komentar komentar 
+
+def f372(x):
+    return x + 372  # komentar komentar komentar 
+
+def f373(x):
+    return x + 373  # komentar komentar komentar 
+
+def f374(x):
+    return x + 374  # komentar komentar komentar 
+
+def f375(x):
+    return x + 375  # komentar komentar komentar 
+
+def f376(x):
+    return x + 376  # komentar komentar komentar 
+
+def f377(x):
+    return x + 377  # komentar komentar komentar 
+
+def f378(x):
+    return x + 378  # komentar komentar komentar 
+
+def f379(x):
+    return x + 379  # komentar komentar komentar 
+
+def f380(x):
+    return x + 380  # komentar komentar komentar 
+
+def f381(x):
+    return x + 381  # komentar komentar komentar 
+
+def f382(x):
+    return x + 382  # komentar komentar komentar 
+
+def f383(x):
+    return x + 383  # komentar komentar komentar 
+
+def f384(x):
+    return x + 384  # komentar komentar komentar 
+
+def f385(x):
+    return x + 385  # komentar komentar komentar 
+
+def f386(x):
+    return x + 386  # komentar komentar komentar 
+
+def f387(x):
+    return x + 387  # komentar komentar komentar 
+
+def f388(x):
+    return x + 388  # komentar komentar komentar 
+
+def f389(x):
+    return x + 389  # komentar komentar komentar 
+
+def f390(x):
+    return x + 390  # komentar komentar komentar 
+
+def f391(x):
+    return x + 391  # komentar komentar komentar 
+
+def f392(x):
+    return x + 392  # komentar komentar komentar 
+
+def f393(x):
+    return x + 393  # komentar komentar komentar 
+
+def f394(x):
+    return x + 394  # komentar komentar komentar 
+
+def f395(x):
+    return x + 395  # komentar komentar komentar 
+
+def f396(x):
+    return x + 396  # komentar komentar komentar 
+
+def f397(x):
+    return x + 397  # komentar komentar komentar 
+
+def f398(x):
+    return x + 398  # komentar komentar komentar 
+
+def f399(x):
+    return x + 399  # komentar komentar komentar 

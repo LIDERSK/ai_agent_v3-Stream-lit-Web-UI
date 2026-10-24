@@ -1,0 +1,14 @@
+{
+  "source": "builtin",
+  "format": "SKILL.md",
+  "triggers": [
+    "readme",
+    "dokumentacia",
+    "navod",
+    "popis projektu",
+    "docs"
+  ],
+  "notes": [],
+  "warnings": [],
+  "default_enabled": true
+}

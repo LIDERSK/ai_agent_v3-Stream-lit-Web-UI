@@ -1,0 +1,18 @@
+{
+  "source": "builtin",
+  "format": "SKILL.md",
+  "triggers": [
+    "chyba",
+    "nefunguje",
+    "traceback",
+    "vynimka",
+    "exception",
+    "debug",
+    "opravit",
+    "pad",
+    "error"
+  ],
+  "notes": [],
+  "warnings": [],
+  "default_enabled": true
+}

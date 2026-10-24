@@ -1,0 +1,15 @@
+{
+  "source": "builtin",
+  "format": "SKILL.md",
+  "triggers": [
+    "review",
+    "kontrola",
+    "skontroluj",
+    "code review",
+    "chyby v kode",
+    "pozri sa na kod"
+  ],
+  "notes": [],
+  "warnings": [],
+  "default_enabled": true
+}
